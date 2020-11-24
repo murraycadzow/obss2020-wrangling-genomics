@@ -8,6 +8,18 @@ Lesson for quality control and wrangling genomics data. This repository is maint
 
 Amazon public AMI for this tutorial is "dataCgen-qc". 
 
+
+>
+> This is a derivative of [https://datacarpentry.org/wrangling-genomics/     
+](https://datacarpentry.org/wrangling-genomics/)
+> 
+> The main changes are:
+> - The inclusion of the Introduction to Git from Software Carpentry - this     content too has been modified
+> - Making the content specific to running on NeSI, rather than AWS
+ 
+ 
+
+
 This is a customised version for running on NeSI
 
 ## Background

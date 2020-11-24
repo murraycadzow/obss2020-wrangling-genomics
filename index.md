@@ -3,6 +3,17 @@ layout: lesson
 root: .
 ---
 
+
+>
+> **This is a derivative of [https://datacarpentry.org/wrangling-genomics/](https://datacarpentry.org/wrangling-genomics/)**
+> 
+> The main changes are:
+> - The inclusion of the Introduction to Git from Software Carpentry - this content too has been modified
+> - Making the content specific to running on NeSI, rather than AWS
+
+
+
+
 A lot of genomics analysis is done using command-line tools for three reasons:   
 1) you will often be working with a large number of files, and working through the command-line rather than 
 through a graphical user interface (GUI) allows you to automate repetitive tasks,    
